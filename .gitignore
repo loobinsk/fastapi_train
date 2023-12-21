@@ -1,0 +1,45 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Log files
+*.log
+
+# Local development settings
+local_settings.py
+
+# Dependencies
+__pypackages__/
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Compiled .pyd files
+__pycache__/
+*.pyd
+*.db
+*.db-journal
+
+# Ignore .env file containing sensitive data
+.env
+
